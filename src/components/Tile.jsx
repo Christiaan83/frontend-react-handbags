@@ -1,10 +1,10 @@
 
 // eslint-disable-next-line react/prop-types
-function Tile({imgSrc, altText, titel, children}) {
+function Tile({imgSrc, altText, title, children}) {
     return (
         <section>
             {imgSrc && <img src={imgSrc} alt={altText}/> }
-            <h2>{titel}</h2>
+            <h2>{title}</h2>
             {children}
         </section>
 

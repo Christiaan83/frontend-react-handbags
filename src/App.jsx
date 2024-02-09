@@ -62,7 +62,7 @@ function App() {
         </main>
         <footer>
           <Tile
-          titel="The Brand">
+          title="The Brand">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat cupiditate atque est provident quam adipisci quis odio modi dolorum. Explicabo maxime neque adipisci commodi quisquam. </p>
 
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat cupiditate atque est provident quam adipisci quis odio modi dolorum. Explicabo maxime neque adipisci commodi quisquam. </p>
@@ -77,7 +77,7 @@ function App() {
                 altText="ourStory"
             />
             <Tile
-                titel="Our story">
+                title="Our story">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat cupiditate atque est provident quam adipisci quis odio modi dolorum. Explicabo maxime neque adipisci commodi quisquam. </p>
             </Tile>
 
